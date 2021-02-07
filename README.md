@@ -23,9 +23,4 @@ You must have npm installed in order to use this build environment.
 
 ## Copyright and License
 
-#### Langing Page
-
-Copyright (c) 2021 Daniel Tschumi. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/gh-pages/LICENSE) license.
-
-#### Resume Theme
-Copyright (c) 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+Copyright (c) 2013-2021 Start Bootstrap LLC / Copyright (c) 2021 Daniel Tschumi. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/gh-pages/LICENSE) license.
